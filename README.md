@@ -8,5 +8,5 @@
 | Python | https://github.com/CorsaOff/hello-python |
 | NET | https://github.com/CorsaOff/hello-dotnet |
 | Go_Gui | https://github.com/CorsaOff/hello_gui |
-| HEX |  |
-| GO_Fyne |  |
+| Site | https://corsaoff.github.io/assetto-corsa-project/index.html |
+
