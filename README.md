@@ -1,20 +1,19 @@
 Все сслыки на CD проекты
 
 |  |  |
-| :.. | :.. |
-Hello-Rusthttps://github.com/CorsaOff/hello-rust
+| :--- | :--- |
+| Hello-Rust | https://github.com/CorsaOff/hello-rust |
 
-(Hello-Go)[https://github.com/CorsaOff/hello-go]
+| Hello-Go | https://github.com/CorsaOff/hello-go |
 
-(Go_bin)[https://github.com/CorsaOff/hello-go_bin]
+| Go_bin | https://github.com/CorsaOff/hello-go_bin |
 
-(Python)[]
+| Python |  |
 
-(NET)[https://github.com/CorsaOff/hello-dotnet]
+| NET | https://github.com/CorsaOff/hello-dotnet |
 
-(Go_Gui)[https://github.com/CorsaOff/hello_gui]
+| Go_Gui | https://github.com/CorsaOff/hello_gui |
 
-(HEX)[]
+| HEX |  |
 
-(GO_Fyne)[]
-|  |  |
+| GO_Fyne |  |
